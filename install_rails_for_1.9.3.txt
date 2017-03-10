@@ -17,3 +17,8 @@ end
 boot.rb -=> rails => enviroment.rb => development.rb
                                    => test.rb
                                    => prodaction.rb
+                                   
+                                   
+для windows x64
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x5
+_mingw]
