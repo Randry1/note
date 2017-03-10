@@ -14,3 +14,6 @@ else
 end
 
 
+boot.rb -=> rails => enviroment.rb => development.rb
+                                   => test.rb
+                                   => prodaction.rb
