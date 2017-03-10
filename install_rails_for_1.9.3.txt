@@ -22,3 +22,6 @@ boot.rb -=> rails => enviroment.rb => development.rb
 для windows x64
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x5
 _mingw]
+
+прочитать MVC 
+Model View Controler
