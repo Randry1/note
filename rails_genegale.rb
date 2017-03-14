@@ -13,6 +13,9 @@ rails server
   rails server -e test
   rails server -e development
   rails server -e prodaction
+
+  #Поменять порт
+  rails s -p 4000
   
 #Создать генерацию
 
