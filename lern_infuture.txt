@@ -2,3 +2,4 @@ lern REST
 lern json
 form bilder for rails
 ключи безопасности для form rails
+FizzBuzz test что это
