@@ -1,1 +1,2 @@
 sudo su для входа под root ec2
+cat /etc/*-release узнать какой у тебя дистрибут>ив
