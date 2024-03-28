@@ -1,5 +1,5 @@
 # Как добавить внешнюю таблицу с другово сервера
-`
+```SQL
 -- обязательно для создания связи между таблицами
 -- подключаем расширение если оно не подключено
 CREATE EXTENSION IF NOT EXISTS postgres_fdw;
@@ -43,4 +43,4 @@ CREATE FOREIGN TABLE foreign_table_test5 (
     )
     SERVER serv_doc2;
 
-    `
+    ```
