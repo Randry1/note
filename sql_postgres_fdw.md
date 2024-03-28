@@ -42,5 +42,4 @@ CREATE FOREIGN TABLE foreign_table_test5 (
     data text
     )
     SERVER serv_doc2;
-
-    ```
+```
